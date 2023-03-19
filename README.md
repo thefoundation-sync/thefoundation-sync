@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--
+- 😄 Pronouns: Hi
+- 🔭 I’m currently working on multiple things
+
+<a href="https://the-foundation.gitlab.io" > Refer to the main page of The Foundation for further Information</a>
+
+<!---
 **thefoundation-sync/thefoundation-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
